@@ -1,11 +1,11 @@
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">THE_JO_BOT</h1>
+<h1 align="center">MALIC_X</h1>
 
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
-Recode - The Jo Bot
+Recode - MalicX
 
 Jangan dijual kontol!!!
 Gw yg capek lu yg jual yg hanya tinggal nyomot dan rename.
@@ -15,7 +15,7 @@ Di TQ TO nama gw jgn dihapus bangsat.
 
 Best Regards. The Jo Bot
 
-# THE_JO_BOT
+# MALIC_X
 Script WhatsApp Bot Multi Device
 
 ## NOTE
@@ -29,7 +29,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick) |
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
@@ -59,29 +59,17 @@ npm install
 
 
 
-## FOR TERMUX/UBUNTU/SSH USER
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/THEJO307/jo-private
-cd jo-private
-npm install
-```
-
-## RECOMMENDED INSTALL ON TERMUX
-
-```bash
-pkg install yarn
-yarn
-```
-
-## Installing
-```bash
+## FOR TERMUX
+$ apt update && apt upgrade
+$ apt install git -y
+$ apt install nodejs -y
+$ apt install ffmpeg -y
+$ apt install yarn -y
+$ git clone https://github.com/MalicX/jo-private
+$ cd jo-private
+$ yarn
 $ node .
-```
+````````````````````````
 
 ## ❗ Warning
 WhatsApp bot is still in the development stage, so there are a few bugs
