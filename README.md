@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="https://telegra.ph/file/094abb98c63d1fbac703e.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">MALIC_X</h1>
+<h1 align="center">MALICX_BOTZ</h1>
 
 # CATATAN ( NOTE )
 Script ori - DikaArdnt
