@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://telegra.ph/file/e30ea64499c2efff39acd.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/31eefbb02b309088b666d.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">MALICX BOTZ</h1>
 
