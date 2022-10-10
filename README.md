@@ -33,8 +33,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 ## My Project
 * New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
-* WhatsApp Bot Multi Device [`THEJO307/jo-private`](https://github.com/THEJO307/jo-private)
+* WhatsApp Bot normal [`THEJO307/jo-private`](https://github.com/MalicX/Cio-botz)
+* WhatsApp Bot Multi Device [`THEJO307/jo-private`](https://github.com/MalicX/Cio-botz)
 
 
 ## UNTUK PENGGUNA WINDOWS/RDP
@@ -45,8 +45,8 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/THEJO307/jo-private
-cd jo-private
+git https://github.com/MalicX/Cio-botz
+cd Cio-botz
 npm install
 ```
 
@@ -65,7 +65,7 @@ $ apt install git -y
 $ apt install nodejs -y
 $ apt install ffmpeg -y
 $ apt install yarn -y
-$ git clone https://github.com/MalicX/jo-private
+$ git clone https://github.com/MalicX/Cio-botz
 $ cd jo-private
 $ yarn
 $ node .
