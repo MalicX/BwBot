@@ -75,7 +75,7 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/THEJO307/jo-private/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/MalicX/Cio-botz/blob/main/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 
