@@ -60,15 +60,15 @@ npm install
 
 
 ## FOR TERMUX
-$ apt update && apt upgrade
-$ apt install git -y
-$ apt install nodejs -y
-$ apt install ffmpeg -y
-$ apt install yarn -y
-$ git clone https://github.com/MalicX/Cio-botz
-$ cd jo-private
-$ yarn
-$ node .
+* $ apt update && apt upgrade
+* $ apt install git -y
+* $ apt install nodejs -y
+* $ apt install ffmpeg -y
+* $ apt install yarn -y
+* $ git clone https://github.com/MalicX/Cio-botz
+* $ cd Cio-botz
+* $ yarn
+* $ node .
 ````````````````````````
 
 ## ❗ Warning
