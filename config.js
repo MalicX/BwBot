@@ -13,7 +13,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'd3c94d93bf0c',
 }
 
 
@@ -24,8 +24,8 @@ global.available = false //status online (online)
 // Other
 global.owner = ['6281387545144','6281387545144','6281387545144']
 global.premium = ['6281387545144']
-global.packname = 'Cio-Botz'
-global.author = 'Crasher Bot'
+global.packname = 'Crit-Botz'
+global.author = 'Trava'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
