@@ -17,14 +17,14 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'Aguzs'
+global.ownername = 'MalicX'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['6283825475942','6283825475942','6283825475942']
-global.premium = ['6283825475942']
-global.packname = 'Crit-Botz'
+global.owner = ['6281387545144','6281387545144','6281387545144']
+global.premium = ['6281387545144']
+global.packname = 'Doss-Botz'
 global.author = 'Trava'
 global.wlcm = []
 global.sessionName = 'session'
