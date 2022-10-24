@@ -24,8 +24,8 @@ global.available = false //status online (online)
 // Other
 global.owner = ['6281387545144','6281387545144','6281387545144']
 global.premium = ['6281387545144']
-global.packname = 'Doss-Botz'
-global.author = 'Trava'
+global.packname = 'XILVERMODS'
+global.author = '®MalicX'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
