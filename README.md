@@ -45,7 +45,7 @@ This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](h
 
 
 ```bash
-git https://github.com/MalicX/crits
+git https://github.com/MalicX/travaz
 cd crits
 npm install
 ```
@@ -65,7 +65,7 @@ npm install
 * $ apt install nodejs -y
 * $ apt install ffmpeg -y
 * $ apt install yarn -y
-* $ git clone https://github.com/MalicX/crits
+* $ git clone https://github.com/MalicX/travaz
 * $ cd crits
 * $ yarn
 * $ node .
